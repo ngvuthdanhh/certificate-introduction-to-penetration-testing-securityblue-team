@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Introduction to Penetration Testing – SecurityBlueTeam  
 
 ![Course](https://img.shields.io/badge/SecurityBlueTeam-Intro%20to%20Penetration%20Testing-darkred?style=flat-square?logo=shield?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square&logo=verizon)
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=flat-square&logo=verizon)
 ![Type](https://img.shields.io/badge/Type-Learning%20Notes%20%26%20Labs-orange?style=flat-square&logo=notion)
 ![Focus](https://img.shields.io/badge/Focus-Penetration%20Testing-informational?style=flat-square&logo=hackaday)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Nguyen%20Vu%20Thanh%20Danh-blueviolet?style=flat-square&logo=github)
